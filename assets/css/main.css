@@ -2366,7 +2366,6 @@ input, select, textarea {
 	}
 
 		.image img {
-			border: solid black;
 			border-radius: 8px;
 			display: block;
 		}
@@ -3122,6 +3121,7 @@ input, select, textarea {
 					width: 200px;
 					height: 200px;
 					border-radius: 50%;
+					border: solid black;
 				}
 
 		@media screen and (max-width: 1280px) {
