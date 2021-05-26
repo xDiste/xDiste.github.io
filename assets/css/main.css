@@ -3356,7 +3356,11 @@ input, select, textarea {
 			color: #444444;
 			margin: 1%;
 		}
-
+		
+		#main li{
+			margin-bottom: 2em;
+		}
+		
 		#main h1, #main h2, #main h3, #main h4, #main h5, #main h6 {
 			color: #000000;
 		}
