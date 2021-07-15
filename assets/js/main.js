@@ -78,13 +78,7 @@
 						// Scrollex.
 							$section.scrollex({
 								mode: 'middle',
-								initialize: function() {
-
-									// Deactivate section.
-										if (browser.canUse('transition'))
-											$section.addClass('inactive');
-
-								},
+							
 								enter: function() {
 
 									// Activate section.
